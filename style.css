@@ -1,0 +1,39 @@
+h1 {
+    text-transform: uppercase;
+    font-size: 50px;
+}
+body {
+    background-color:black ;
+}
+p {
+    color: white;
+}
+.motivation-img {
+    border: 5px solid white;
+    border-width: 100%;
+}
+.poster {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: white;
+    font-family: 'Tulpen One', cursive;
+    font-size: 45px;
+    text-align: center;
+}
+.another {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: aliceblue;
+    font-size: 45px;
+    text-align: center;
+}
+.another-img {
+    border: 25px solid green;
+    border-width: 100%;
+}
+
+#poop {
+    font-size: 78px;
+}
